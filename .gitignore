@@ -1,5 +1,3 @@
-
-/.project
-/.buildpath
-*~
-*.bak
+*
+!ServiceListPrinter.php
+!WSDL_Gen.php
